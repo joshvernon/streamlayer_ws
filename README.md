@@ -5,8 +5,7 @@ Sample map was adapted from [this blog post] (https://geonet.esri.com/blogs/nico
 
 
 ### Other resources
-[WebSocket specification] (https://html.spec.whatwg.org/multipage/comms.html#network)
-
-[Autobahn|Python WebSocket programming tutorial] (http://autobahn.ws/python/websocket/programming.html)
-
-[WAMP] (http://wamp-proto.org/)
+[WebSocket specification] (https://html.spec.whatwg.org/multipage/comms.html#network)  
+[Autobahn|Python WebSocket programming tutorial] (http://autobahn.ws/python/websocket/programming.html)  
+[WAMP] (http://wamp-proto.org/)  
+[SA - Heart of Innovation] (http://saheartofinnovation.com/)  
