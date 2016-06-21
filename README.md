@@ -1,6 +1,6 @@
 # streamlayer_ws
 A websocket server (created using Autobahn|Python) that emits Esri json.
-Sample map was adapted from [this blog post] (https://geonet.esri.com/blogs/nicogis/2014/08/05/websocket-with-streamlayer).
+The sample map was adapted from [this blog post] (https://geonet.esri.com/blogs/nicogis/2014/08/05/websocket-with-streamlayer).
 
 ### Install and run on Linux with conda
 Run the following commands after cloning the repository:
