@@ -11,7 +11,8 @@ dependencies:
 - xz=5.2.2=0
 - zlib=1.2.8=0
 - pip:
-  - autobahn==0.15.0
+  - autobahn==0.16.0
   - six==1.10.0
   - txaio==2.5.1
+prefix: /home/josh/miniconda/envs/websocket
 
