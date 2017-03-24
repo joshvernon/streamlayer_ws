@@ -1,6 +1,6 @@
 # streamlayer_ws
 A websocket server (created using Autobahn|Python) that emits Esri json.   
-The client and server were adapted from the [Autobahn|Python example code] (https://github.com/crossbario/autobahn-python/tree/master/examples/asyncio/websocket/slowsquare).  
+The client and server were adapted from the [Autobahn|Python example code](https://github.com/crossbario/autobahn-python/tree/master/examples/asyncio/websocket/slowsquare).  
 The sample map was adapted from [this blog post] (https://geonet.esri.com/blogs/nicogis/2014/08/05/websocket-with-streamlayer).
 
 ### Install and run   
