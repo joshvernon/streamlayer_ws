@@ -1,10 +1,11 @@
+# Lots of auto-generated junk that probably limits this file's usefulness.
 name: websocket
 channels:
 - !!python/unicode
   'defaults'
 dependencies:
 - !!python/unicode
-  'openssl=1.0.2k=1'
+  'openssl=1.0.2k=2'
 - !!python/unicode
   'pip=9.0.1=py35_1'
 - !!python/unicode
@@ -24,7 +25,29 @@ dependencies:
 - !!python/unicode
   'zlib=1.2.8=3'
 - pip:
-  - autobahn==0.17.2
+  - alabaster==0.7.9
+  - appdirs==1.4.0
+  - autobahn==17.5.1
+  - autopep8==1.2.4
+  - babel==2.3.4
+  - docutils==0.13.1
+  - flake8==3.2.1
+  - imagesize==0.7.1
+  - jinja2==2.9.5
+  - markupsafe==0.23
+  - mccabe==0.5.3
+  - packaging==16.8
+  - pep8==1.7.0
+  - py==1.4.32
+  - pycodestyle==2.2.0
+  - pyflakes==1.5.0
+  - pygments==2.2.0
+  - pyparsing==2.1.10
+  - pytest==3.0.6
+  - pytz==2016.10
+  - requests==2.13.0
   - six==1.10.0
-  - txaio==2.6.1
+  - snowballstemmer==1.2.1
+  - sphinx==1.5.2
+  - txaio==2.7.1
 
